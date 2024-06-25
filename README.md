@@ -1,1 +1,2 @@
-Just Right Click and save file as
+Right click, save link as.
+Files
